@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Sathya Test Automation Test Suite"> 
+<!-- suite name="Suite Name" -->
+             <test name="POM Test" allow-return-values="true">
+                     <classes>
+                       <!-- packagename.Testcase class name  -->
+                             <class name ="com.sat.qa.tests.LoginPageTest"></class>
+                             <class name ="com.sat.qa.tests.HomePageTest"></class>
+                             <class name ="com.sat.qa.tests.HomeAppliancesPageTest"></class>
+                             
+                     </classes>
+             </test>          
+</suite>
+
+
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61235" started-at="2019-06-12T06:11:42Z" finished-at="2019-06-12T06:12:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61235" started-at="2019-06-12T06:11:42Z" finished-at="2019-06-12T06:12:43Z">
+      <class name="com.sat.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="setUp" is-config="true" duration-ms="18774" started-at="2019-06-12T06:11:42Z" finished-at="2019-06-12T06:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="verifyHomePageTitleTest" duration-ms="38" started-at="2019-06-12T06:12:01Z" finished-at="2019-06-12T06:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="tearDown" is-config="true" duration-ms="701" started-at="2019-06-12T06:12:01Z" finished-at="2019-06-12T06:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="setUp" is-config="true" duration-ms="11221" started-at="2019-06-12T06:12:02Z" finished-at="2019-06-12T06:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:2, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="verifyUserNameTest" duration-ms="83" started-at="2019-06-12T06:12:13Z" finished-at="2019-06-12T06:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="tearDown" is-config="true" duration-ms="722" started-at="2019-06-12T06:12:13Z" finished-at="2019-06-12T06:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="setUp" is-config="true" duration-ms="22368" started-at="2019-06-12T06:12:14Z" finished-at="2019-06-12T06:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomeAppliancesLinkTest()[pri:3, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="verifyHomeAppliancesLinkTest" duration-ms="6320" started-at="2019-06-12T06:12:36Z" finished-at="2019-06-12T06:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeAppliancesLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sat.qa.tests.HomePageTest@1e88b3c]" name="tearDown" is-config="true" duration-ms="949" started-at="2019-06-12T06:12:42Z" finished-at="2019-06-12T06:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sat.qa.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
